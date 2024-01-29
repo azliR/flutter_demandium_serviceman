@@ -1,0 +1,76 @@
+name: demandium_serviceman
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 4.0.0+1
+
+environment:
+  sdk: ">=2.19.4 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.5
+  get: ^4.6.5
+  intl: ^0.18.0
+  http: ^0.13.4
+  shared_preferences: ^2.1.0
+  connectivity_plus: ^3.0.3
+  firebase_core: ^2.9.0
+  firebase_messaging: ^14.4.0
+  path_provider: ^2.0.14
+  url_strategy: ^0.2.0
+  image_picker: ^0.8.7+1
+  cached_network_image: ^3.2.3
+  geolocator: ^9.0.2
+  url_launcher: ^6.1.10
+  country_code_picker: ^3.0.0
+  phone_number: ^1.0.0
+  webview_flutter: ^4.0.7
+  pin_code_fields: ^7.4.0
+  flutter_widget_from_html_core: ^0.10.0
+  pointer_interceptor: ^0.9.3+4
+  shimmer_animation: ^2.1.0+1
+  expandable: ^5.0.1
+  fl_chart: ^0.61.0
+  dotted_border: ^2.0.0+3
+  flutter_local_notifications: ^12.0.4
+  timelines: ^0.1.0
+  file_picker: ^4.6.1
+  pdf: ^3.10.1
+  open_file_safe: ^3.2.3
+  flutter_downloader: ^1.10.2
+  permission_handler: ^10.2.0
+  printing: ^5.11.0
+  path: ^1.8.2
+  flutter_switch: ^0.3.2
+  firebase_crashlytics: ^3.4.8
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/language/
+
+  fonts:
+    - family: Ubuntu
+      fonts:
+        - asset: assets/font/Ubuntu-Light.ttf
+          weight: 300
+        - asset: assets/font/Ubuntu-Regular.ttf
+          weight: 400
+        - asset: assets/font/Ubuntu-Medium.ttf
+          weight: 500
+        - asset: assets/font/Ubuntu-Bold.ttf
+          weight: 700

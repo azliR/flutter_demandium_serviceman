@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "949626461568",
+    "project_id": "jeebo-148f5",
+    "storage_bucket": "jeebo-148f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949626461568:android:1dd659160ff67dab203565",
+        "android_client_info": {
+          "package_name": "com.hirafi.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949626461568-schopukarf15h0qr99se5of50h8ouamj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLUrs66CQEbkPNeo_yaib4YlPwvMLad7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949626461568-schopukarf15h0qr99se5of50h8ouamj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "949626461568-0arga5vmn4ftqoorjd04jbkifh085r7l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hirafi.provider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949626461568:android:e73d096e33b8cb6b203565",
+        "android_client_info": {
+          "package_name": "com.hirafi.serviceman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949626461568-schopukarf15h0qr99se5of50h8ouamj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLUrs66CQEbkPNeo_yaib4YlPwvMLad7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949626461568-schopukarf15h0qr99se5of50h8ouamj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "949626461568-0arga5vmn4ftqoorjd04jbkifh085r7l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hirafi.provider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949626461568:android:5d044db4603d57ba203565",
+        "android_client_info": {
+          "package_name": "com.hirafi.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949626461568-schopukarf15h0qr99se5of50h8ouamj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLUrs66CQEbkPNeo_yaib4YlPwvMLad7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949626461568-schopukarf15h0qr99se5of50h8ouamj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "949626461568-0arga5vmn4ftqoorjd04jbkifh085r7l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hirafi.provider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
